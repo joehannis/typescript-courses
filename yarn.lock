@@ -3918,7 +3918,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@parcel/ts-utils@npm:2.10.1, @parcel/ts-utils@npm:^2.10.1":
+"@parcel/ts-utils@npm:2.10.1":
   version: 2.10.1
   resolution: "@parcel/ts-utils@npm:2.10.1"
   dependencies:
@@ -3926,6 +3926,17 @@ __metadata:
   peerDependencies:
     typescript: ">=3.0.0"
   checksum: 90dd73b1489b791dab7b7ced3a11af42b2d6fc871cba35461cc540735965551454463d23638890e2f7e84bec9e58e15ecb3b498b9b86138848666493f9661c2c
+  languageName: node
+  linkType: hard
+
+"@parcel/ts-utils@npm:^2.10.1":
+  version: 2.11.0
+  resolution: "@parcel/ts-utils@npm:2.11.0"
+  dependencies:
+    nullthrows: "npm:^1.1.1"
+  peerDependencies:
+    typescript: ">=3.0.0"
+  checksum: 24acf8917c53a5e9eee6500928ac604b99be48289cbe9625574df757ea1ebd2e89891221d3a8926892a49c183c4ce19bb2e108770f134eda0204075e7b7e8f9a
   languageName: node
   linkType: hard
 
