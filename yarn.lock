@@ -24676,7 +24676,7 @@ __metadata:
     "@types/typography": "npm:^0.16.5"
     "@typescript-eslint/eslint-plugin": "npm:^6.7.5"
     "@typescript-eslint/parser": "npm:^6.7.5"
-    babel-jest: "npm:^26.6.3"
+    babel-jest: "npm:^29.7.0"
     babel-preset-gatsby: "npm:^3.12.0"
     core-js: "npm:^3.33.0"
     cypress: "npm:^13.3.1"
